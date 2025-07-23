@@ -1,5 +1,5 @@
 # FunkinEmbed
-<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/96f8b91e-1abe-4b30-8142-f55712623ab8"
+<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/96f8b91e-1abe-4b30-8142-f55712623ab8">
 
 this is just the HTML5 release of [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)
 
